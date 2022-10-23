@@ -3,7 +3,7 @@
 - I have learned a bit of Java and JavaScript. 
 - I am currently studying at Sh++. 
 - You can contact me: 
-- Telegram RoDen_77, 
+- Telegram @RoDen_77, 
 - GitHub [7roden.github.io](https://7roden.github.io/7roden/) 
 - Email 23roden77@gmail.com
 
