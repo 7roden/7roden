@@ -1,4 +1,4 @@
-Hello. I am Roman Denisenko. 
+Hello. I am Roman Denysenko. 
 I work in the Expert Service of the Ministry of Internal Affairs of Ukraine. 
 I have learned a bit of Java and JavaScript. 
 I am currently studying at Sh++. 
