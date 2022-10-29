@@ -1,12 +1,14 @@
-<h2 style="color:red; text-align:center">Hello. I am Roman Denysenko</h2> 
-- I work in the Expert Service of the Ministry of Internal Affairs of Ukraine. 
-- I have learned a bit of Java and JavaScript. 
-- I am currently studying at Sh++. 
+<h2 style="text-color:red; text-align:center">Hello. I am Roman Denysenko</h2> 
+<p>
+I work in the Expert Service of the Ministry of Internal Affairs of Ukraine.<br> 
+I have learned a bit of Java and JavaScript.<br> 
+I am currently studying at Sh++.
+</p>
 <h3 style="color:blue"> You can contact me: </h3> 
 <ul>
-  <li>Telegram @RoDen_77</li>
+  <li><a href="https://t.me/RoDen_77">Telegram</a></li>
   <li><a href="https://7roden.github.io/7roden/">GitHub</a></li>
-  <li>Email 23roden77@gmail.com</li>
+  <li><a href="<23roden77@gmail.com>"Email</a></li>
 </ul>
 
 <!---
