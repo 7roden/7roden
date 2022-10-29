@@ -1,4 +1,4 @@
-<h2 style="color:red" text-align:center>Hello. I am Roman Denysenko</h2> 
+<h2 style="color:red; text-align:center">Hello. I am Roman Denysenko</h2> 
 - I work in the Expert Service of the Ministry of Internal Affairs of Ukraine. 
 - I have learned a bit of Java and JavaScript. 
 - I am currently studying at Sh++. 
