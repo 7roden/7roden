@@ -2,7 +2,7 @@
 - I work in the Expert Service of the Ministry of Internal Affairs of Ukraine. 
 - I have learned a bit of Java and JavaScript. 
 - I am currently studying at Sh++. 
-- You can contact me: 
+<h1> You can contact me: </h1> 
 - Telegram @RoDen_77, 
 - GitHub [7roden.github.io](https://7roden.github.io/7roden/) 
 - Email 23roden77@gmail.com
