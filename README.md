@@ -1,10 +1,10 @@
-<h2 style="text-color:red; text-align:center">Hello. I am Roman Denysenko</h2> 
+<h2 style="color:red; text-align:center;">Hello. I am Roman Denysenko</h2> 
 <p>
 I work in the Expert Service of the Ministry of Internal Affairs of Ukraine.<br> 
 I have learned a bit of Java and JavaScript.<br> 
 I am currently studying at Sh++.
 </p>
-<h3 style="color:blue"> You can contact me: </h3> 
+<h3 style="color:blue;"> You can contact me: </h3> 
 <ul>
   <li><a href="https://t.me/RoDen_77" target="_blank">Telegram</a></li>
   <li><a href="https://7roden.github.io/7roden/" target="_blank">GitHub</a></li>
