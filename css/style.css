@@ -2,3 +2,19 @@ h1 {
     color: red;
     font-style: italic;
 }
+body {
+    text-align: center;
+}
+ul li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+}
+a::after{
+    color: blue;
+}
