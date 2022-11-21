@@ -7,7 +7,7 @@ I am currently studying at Sh++.
 <h3 style="color:blue;"> You can contact me: </h3> 
 <ul>
   <li><a href="https://t.me/RoDen_77" target="_blank">Telegram</a></li>
-  <li><a href="https://7roden.github.io/7roden/" target="_blank">GitHub</a></li>
+  <li><a href="https://7roden.github.io" target="_blank">GitHub</a></li>
   <li><a href="mailto:23roden77@gmail.com" target="_blank">Email</a></li>
 </ul>
 
